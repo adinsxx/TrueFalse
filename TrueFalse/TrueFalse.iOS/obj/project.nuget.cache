@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "awys4u0LvcITTSVEHB/MxzYhnzDUMU5THSM7U1VMUMwV0/9xjXC7Smim8Xjer8I71gYlp249PB7+rRCHK6v6vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\RiderProjects\\TrueFalse\\TrueFalse\\TrueFalse.iOS\\TrueFalse.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/xHiFqDEh7uzOJecZ1kOz7W+IKN6t0gNMPrNPFfBMfMxFXR5uMvdmBtv/zxDPHSAc9kIuRiNA0mvxNAVCYvDww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\RiderProjects\\TrueFalse\\TrueFalse\\TrueFalse\\TrueFalse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
